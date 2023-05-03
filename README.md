@@ -5,3 +5,6 @@ Code for fully connected networks on all datasets considered in the paper is ava
 
 # Verifying Ansatz
 Code for verifying the ansatz is available in verify_deep_NFA.py.  It will require you to load a saved neural net and a corresponding dataset.  
+
+# Software
+Software versions are available via the file deep_nfa_env.yml.  This code primarily requires pytorch version 1.13 with functorch (installed via pip).  
